@@ -1,0 +1,19 @@
+p
+{
+    text-align: justify;
+}
+h4,h5{
+    text-align: left;
+}
+
+.circle{
+    height: 10px;
+    width: 10px;
+    background-color:grey;
+    border-radius: 50%;
+    display: inline-block;
+}
+.FeaturesItem{
+    padding:5px;
+}
+

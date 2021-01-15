@@ -1,0 +1,21 @@
+.sidebarStyle {
+    display: inline-block;
+    position: absolute;
+    top: 100;
+    left: 100;
+    margin: 12px;
+    background-color: #404040;
+    color: #ffffff;
+    z-index: 1 !important;
+    padding: 6px;
+    font-weight: bold;
+    }
+.mapContainer {
+    margin:10px;
+    height:500px;
+    width:1850px;
+    border:1px solid black;
+    }
+    .mapboxgl-popup {
+        max-width: 200px;
+    }

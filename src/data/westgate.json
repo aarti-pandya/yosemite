@@ -1,0 +1,116 @@
+{
+"PropertyBackground": 
+  {
+    "Yosemite National Park Hotels in Groveland":"Welcome to The Yosemite Westgate Lodge, your home away from home. Conveniently located near scenic Highway 120, the hotel is only 12 miles from the Big Oak Flat Westgate Entrance to Yosemite National Park and only 35 miles down to Yosemite Valley. The hotel is ideally situated around popular attractions of Yosemite such as thriving waterfalls, Half Dome, El Capitan, Cathedral Rocks and many campgrounds for trails and other activities. The Westgate Lodge offers convenient and comfortable accommodations at affordable rates.",
+    "Groveland Hotels at Yosemite National Park":"Come experience a wonderful escape at the Yosemite Westgate Lodge, located at the gateway to Yosemite in Groveland, CA. Our hotel features luxurious, well-appointed, recently remodeled rooms with custom residential furnishings, available with one king or two queen beds, and offers extra-large space. Rooms are 100% Non-Smoking. Modern amenities include a seasonal swimming pool, spa, playground, laundry facilities, and an adjacent seasonal restaurant for delicious dining. Our property offers ample space for gatherings, shaped like a horseshoe, facilitates 6 independent buildings featuring a central area with modern amenities like a playground, spa, etc.",
+    "Things to Do in Yosemite National Park and Groveland":"The most scenic route to Yosemite includes the Sierra Nevada Mountain Range of California. This route includes high mountain scenery, alpine lakes, and long sweeping vistas. Our property offers an easy doorway to the grandeur of Yosemite National Park and the recreational wonderland of the Stanislaus National Forest. Whether you want to experience the natural wonders of the surrounding area of Yosemite, have a romantic getaway, or enjoy a stay in a genuine Yosemite Westgate hotel, you will find what you are looking for at the Yosemite Westgate Lodge in Groveland. Spread out in approx. 1,170 square miles of breath-taking natural beauty, grips an eye-catching scenic wild-land along with California's eastern edges. Yosemite National Park is enclosed with mountains, lakes, waterfalls, and groves of giant sequoias at about 2,000 feet to more than 13,000 feet above sea level. Major attractions nearby include El Capitan, Half Dome, Hetch Hetchy Valley, Mariposa Grove Pine Mountain Lake and much more. Yosemite National Park offers free walking photography tours and trails/hiking camps.",
+    "Yosemite Hotel Accommodations in Groveland":"Start your day with a delicious seasonal breakfast and end with superb American dining at The Lucky Buck Cafe which is adjacent to the hotel and our on-site restaurant. The menu includes a variety of good home-cooked meals. The Restaurant also offers beer and wine and special live music concerts with darts and shuffleboard. Consider booking at Buck Meadows Lodge (www.buckmeadowslodge.com), which offers a few pet-friendly Yosemite hotel rooms, as it is our adjacent sister property. Our warm and knowledgeable staff is here to help you in making your trip an enjoyable one. It’s a full-service destination and a perfect getaway for travelers."
+  },
+  "FeaturesAmenities":
+  {
+    "General Services":[
+        "HeaterFree",
+		"Parking",
+		"Express Check-In/Check-Out",
+		"Refrigerator",
+		"Air Conditioned",
+		"Non Smoking Rooms",
+		"In-Room Coffee",
+		"High Definition Television",
+		"Guest Laundry Facilities",
+		"Family Rooms",
+		"Satellite TV",
+		"Alarm Clocks",
+		"Outdoor Pool",
+		"Iron/Ironing Board",
+		"High-Speed Internet",
+		"Hairdryer",
+		"Flatscreen TV",
+		"Direct Dial Phones",
+		"Outdoor Spa",
+		"Microwave",
+		"In Room Safe"
+    ],
+    "Business Services":[
+        "Wireless High Speed Internet (Fee Applies)",
+        "Business Center",
+        "Fax Service (Fees May Apply)"
+    ],
+    "Shops":[
+        "Gift Shop"
+    ],
+    "Family":["No Pets Allowed (ADA Defined Service Animals Allowed)",
+        "Playground",
+        "Rollaway Bed (Fees May Apply)",
+        "Crib (Fees May Apply)"
+    ],
+    "Dining":[
+        "Bar/Lounge",
+        "Restaurant"
+    ],
+    "ADA/Accessible Features for the Overall Property":[
+        "Braille Signage throughout property",
+        "On-Site Designated Accessible Parking",
+        "All hallways and corridors free of any steps or abrupt vertical level changes",
+        "No steps or abrupt level changes that will impede access for persons who use wheelchairs, walkers and other mobility aids between accessible guest rooms and common areas",
+        "Wheelchair Accessible Route From The Accessible Parking Space To The Facility’s Front Entrance and Registration Desk",
+        "Accessible Registration Check-in Counter",
+        "Van Accessible Parking",
+        "Accessible Entrance to Restaurant",
+        "Hotel corridors a minimum of 36” wide",
+        "Staff Has Access to Information About Guest Rooms",
+        "32 Inch Wide Openings to Common Areas",
+        "Front Door Bell",
+        "Roll-in ADA showers available",
+        "Connecting Rooms Available",
+        "People in Need of Accessible Features Can Book Accessible Rooms During The Same Time and Terms That Others Can Reserve Rooms",
+        "ADA Accessible Guest Room",
+        "Hotel Provides Proper Number of Accessible Guest Rooms Stipulated by ADA",
+        "Pool Entrance and Area Accessible",
+        "All doorways to and within Accessible Guest Rooms are Wheelchair Accessible",
+        "Main Features of Hotel Accessible on Ground Floor",
+        "Wheelchair Accessible",
+        "Accessible Pool Entrance",
+        "Hotel Provides Proper Number of Accessible Parking Spots Including Van Accessible Spots Stipulated by ADA",
+        "TDD Telephone",
+        "Accessible Business Center",
+        "Ground Floor Hotel Entrance",
+        "Service Animals Allowed At No Additional Charge",
+        "Exterior stairs built so blind persons and persons with low vision will not hit their head",
+        "Registration Desk is Accessible",
+        "All Signs on The Property are Easy to Read and Free From Reflective Material",
+        "Self-Operating ADA Pool Lift",
+        "Staff is Trained to Offer Assistance to Ensure Accessibility",
+        "Lower Counter Height with Access to Pull Underneath",
+        "No steps or abrupt level changes that will impede access for persons who use wheelchairs, walkers and other mobility aids between accessible parking and guest room entry",
+        "Door hardware (lever, pull, panic bar, etc.) usable with one hand, without tight grasping, pinching or twisting of the wrist",
+        "Gift Shop on Ground Floor",
+        "Accessibility Equipment for The Deaf",
+        "Accessible Guest Rooms with 32 Inch Wide Openings",
+        "No steps or abrupt level changes that will impede access for persons who use wheelchairs, walkers and other mobility aids between accessible parking and entrance",
+        "All sidewalks and walkways free of any objects that pose a hazard to persons with low vision",
+        "WCAG Level 2.1 Website"
+        ]
+  },
+  "LodgePolicies":{
+    "Check in Time": "04:00 PM",
+    "Check out Time" : "11:00 AM",
+    "Currency" : "USD ($)",
+    "Extra Adult Cost" : "$10.00/Night",
+    "Early Check In":"Unfortunately, we run a very busy hotel during peak season, and likely cannot accommodate early check in requests as our housekeeping staff needs to service your room.  Check in time is 4 PM.",
+    "Late Check Out":"Sorry, late check-outs likely cannot be accommodated during our peak season due to how busy our hotel operates.",
+    "Cancellation Policy":"24 Hours",
+    "Policy Details":"We have a 24 Hour Cancellation Policy. If you wish to cancel or modify a reservation, you must do so by 4 PM 24 hours or 1 day prior to your arrival date. If you cancel or modify post the expiration of the Cancellation Period or you fail to show up, a no-show charge will be levied on your credit card for one full night plus taxes and fees.  Credit cards are pre-authorized prior to arrival.  The Hotel is not responsible for guaranteeing the reservation if an invalid or expired credit card is provided.  The name on the credit card used to check-in to pay for incidentals must be the primary name on the guestroom reservation.  Government issued photo identification and a credit card are required in order to check-in.If you have made a reservation with an Advance Purchase Discount, you will NOT be able to cancel or modify this pre-paid non-refundable reservation type.Note: Our office hours are from 8 AM - 10 PM.  Please call us if you are going to be checking in after hours to make late check-in arrangements.  If you are going to be later than 10 PM, there will be a Late Check-in Fee of $25 added to your charge.The Yosemite Westgate Lodge is a 100% Non Smoking Hotel. Please Note: There is a nightly Amenities Fee of $5 per night which is included in your stay details.  This hotel is operated by INNsight Hospitality Group, LLC.Yosemite Westgate Lodge donates the proceeds of $1-per-night of your stay to Yosemite Conservancy (www.yosemite.org). The official nonprofit partner to Yosemite National Park, Yosemite Conservancy provides critical funding for many projects which preserve and protect the park and enrich the visitor experience.",
+    "General":"The Yosemite Westgate Lodge is located along Highway 120 with easy access to Yosemite National Park.  The closest and most modern property to Yosemite, The Westgate and its sister property, Buck Meadows Lodge and the seasonal restaurant, Lucky Buck Cafe, make for the last stop before entering Yosemite.  We are the only property on Highway 120 with a seasonal pool and spa and all of the modern amenities you would find in The City.",
+    "Services":"The Yosemite Westgate Lodge has a guest laundry on-site and is located adjacent to the Lucky Buck Cafe.  There is a General Store which is open seasonally and has a petrol stop right next door.  Our seasonal pool and spa are open seasonally and closed from November 1st thru March. Guest can also enjoy our free business center with Internet connectivity during normal office hours and WiFi which is available throughout the property and in guest rooms--please note that WiFi performance may vary due to our remote location and wooded surroundings.  Please Note: There is a nightly Amenities Fee of $5 per night which is included in your stay.",
+    "Guest Parking":"Free Parking with ample space for campers and trailers, RVs, and buses. ADA Compliant Handicap Parking Spots are available in front of each of building adjacent to our Disability Accessible Guest Rooms.",
+    "Internet":"The Yosemite Westgate Lodge has a business center that is open during normal office hours. Wireless internet is available but due to our remote location we cannot guarantee performance and availability. Please note: There is very limited cellular coverage in our area and long-distance calls require a calling card which can be purchased at the Front Desk.",
+    "Children and Extra Beds":"We charge $10 per additional adult above double-occupancy. We consider children age 12 and over as adults. Rollaway Beds are available for $15 additional per night. Special arrangements can be made at time of check-in and are subject to availability.",
+    "Pets":"ADA Defined Service Animals are welcome at our hotel. Sorry, absolutely no other pets are allowed.",
+    "Accepted Payment Methods":"Visa, MasterCard, American Express, Discover. This hotel reserves the right to pre-authorize credit cards prior to arrival."
+  },
+  "TermsConditions":
+  {
+    "Terms & Conditions": "This property is privately owned and the management reserves the right to refuse service to anyone and will not be responsible for accidents or injury to guests or for loss of money, jewelry or valuables of any kind.  Once checked in, no cancellations.  All linens are inventoried: missing or damaged linens will be charged.  NO PETS ALLOWED.  Guest rooms that have evidence of pet dander and/or odor will be charged a $150 non-refundable fee for deep cleaning services. Any damages to hotel property will be charged an additional fee upon assessment.  This is a NON-SMOKING facility. Guest acknowledges that smoking is not allowed in guest room or within hotel facility. If anyone in guest's party smokes in the guest room, guest hereby expressly authorizes hotel management to charge credit card the amount of $250.00 to reimburse the property for the additional cost of cleaning guest room.  If your reservation has been paid in advance or you elect to pay by cash, a $150 security deposit via credit card will be required upon check-in and will be charged in the event that damages outlined herein occur.  This hotel is operated by INNsight Hospitality Group, LLC."
+}
+}
