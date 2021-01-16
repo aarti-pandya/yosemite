@@ -52,6 +52,12 @@ class Header extends Component {
 					link: '/directions'
 				},
 				{
+					key: 'contactus',
+					id: 'testContactus',
+					title:'Contact Us',
+					link: '/contactus'
+				},
+				{
                     key: 'reservations',
                     id: 'testReservations',
 					title: 'Reservations',

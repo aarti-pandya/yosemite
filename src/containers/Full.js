@@ -17,6 +17,7 @@ import Banner from '../components/Common/Banner';
 import Reservations from '../components/Custom/Reservations';
 import Directions from '../components/Custom/Directions';
 import { createBrowserHistory } from 'history';
+import ContactUs from "../components/Custom/ContactUs";
 
 const history = createBrowserHistory({ forceRefresh: true });
 let sampleJSON;
@@ -105,6 +106,12 @@ class Full extends Component {
 										component={Directions}
 									/>
 
+
+									<Route
+										path="/contactus"
+										name="ContactUs"
+										component={ContactUs}
+									/>
 
 									<Route
 										path="/reservations"
